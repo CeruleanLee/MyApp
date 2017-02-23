@@ -34,8 +34,6 @@ import butterknife.BindView;
 /**
  * Created by hpw on 16/10/31.
  */
-
-
 public class ZhihuMainFragment extends CoreBaseFragment<ZhihuMainPresenter, ZhihuMainModel> implements ZhihuContract.ZhihuMainView, Toolbar.OnMenuItemClickListener {
     protected OnFragmentOpenDrawerListener mOpenDraweListener;
     List<Fragment> fragments = new ArrayList<>();
