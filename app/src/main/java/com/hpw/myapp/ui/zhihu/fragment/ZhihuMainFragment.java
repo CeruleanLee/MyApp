@@ -41,7 +41,6 @@ public class ZhihuMainFragment extends CoreBaseFragment<ZhihuMainPresenter, Zhih
     TabLayout tabs;
     @BindView(R.id.viewpager)
     ViewPager viewpager;
-
     @BindView(R.id.toolbar)
     Toolbar toolbar;
     @BindView(R.id.fab)
