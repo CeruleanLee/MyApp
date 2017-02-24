@@ -46,7 +46,6 @@ public class ZhihuMainFragment extends CoreBaseFragment<ZhihuMainPresenter, Zhih
     @BindView(R.id.fab)
     FloatingActionButton fab;
 
-
     @Override
     public void onAttach(Context context) {
         super.onAttach(context);
